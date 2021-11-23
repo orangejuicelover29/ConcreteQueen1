@@ -96,5 +96,18 @@ label mirrorsroute:
             mcn "I do know a little about makeup, so, hopefully I'll at least look *okay*..."
             swa "Have more confidence in your skills! I'm sure you'll do wonderfully."
     swa "Now, go on ahead. All of the makeup will be in the righthand drawers."
-    swa "And take your time, dear. Good things come to those who... take their time?"
-    swa "As I said it I realized that the original saying doesn't completely make sense, but you know what I mean."
+    swa "And don't rush, dear. Good things come to those who... take their time?"
+    swa "As I said it I realized that the original saying doesn't completely make sense here, but you know what I mean."
+    nar "Alright... makeup time"
+    nar "You open the top drawer, and look inside at the... oh my gosh that is SO much makeup. Much more than you've ever seen in your life."
+    nar "You dont know what half of these things even are..."
+    mcn "Uh, Swaana... I don't know if I can do this."
+    nar "Swaana grins at you."
+    swa "Thank you, [mcn]. Truthfully, this is one of the best outcomes of the test."
+    swa "It's a wonderful thing to be able to admit your own weaknesses."
+    nar "You feel yourself sag in your seat, tensness that you didn't realize you were holding leavin gyour body."
+    nar "Honestly, you were a bit scared she was going to drop you!"
+    swa "Worry not, darling. I'll teach you everything I know."
+
+
+    ###end of mirrors route
