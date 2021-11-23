@@ -65,7 +65,10 @@ label mirrorsroute:
     swa "One of the mothers who I frequently attended the same balls that I did eventually started talking to me. Asking me about myself."
     swa "And made me realize that ballroom is what I wanted to do."
     swa "I had no family after I came out. My parents didn't want anything to do with me."
-    swa "And drag changed that. I became a mother when I was 23, hoping to do for others what my mother did for me."
+    swa "And drag changed that... it gave me a true family."
+    swa "It is also something that has helped me grow into myself... for a long time I felt I didn't truly fit with other men..."
+    swa "Even in gay communities. And drag has so truly helped me to express myself and how I experience gender, as a queer person."
+    swa "I became a mother when I was 23, hoping to do for others what my mother did for me."
     nar "You feel yourself tear up a little."
     mcn "Thank you, Aliyah. For sharing that with me... and for taking me as your daughter."
     nar "You think you hear a sniff from Swanna as well."
@@ -95,4 +98,3 @@ label mirrorsroute:
     swa "Now, go on ahead. All of the makeup will be in the righthand drawers."
     swa "And take your time, dear. Good things come to those who... take their time?"
     swa "As I said it I realized that the original saying doesn't completely make sense, but you know what I mean."
-    
